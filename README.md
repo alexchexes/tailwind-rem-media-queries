@@ -1,4 +1,4 @@
-see [/tailwind.config.js]([url](https://github.com/alexchexes/tailwind-rem-media-queries/blob/master/tailwind.config.js))
+see [/tailwind.config.js](https://github.com/alexchexes/tailwind-rem-media-queries/blob/master/tailwind.config.js)
 
 also see [/.vscode/extensions.json](https://github.com/alexchexes/tailwind-rem-media-queries/blob/master/.vscode/extensions.json)
 
