@@ -6,7 +6,7 @@ export default {
   plugins: [
     plugin(function ({ addBase }) {
       addBase({
-        html: { fontSize: '15px' },
+        html: { fontSize: '15px' }, // <--- Setting base font
       })
     }),
   ],
